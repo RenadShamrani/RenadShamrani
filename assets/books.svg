@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="330" viewBox="0 0 580 330" role="img" aria-labelledby="title desc">
+<title id="title">Semantic Book Recommendations | Natural-language discovery</title><desc id="desc">Find books by meaning using Sentence Transformers, ChromaDB and Gradio in a Python notebook.</desc>
+<defs><style>text{font-family:Arial,Helvetica,sans-serif}</style></defs>
+<rect x="1" y="1" width="578" height="328" rx="20" fill="#f3f5ed" stroke="#dde3d1" stroke-width="2"/>
+<text x="28" y="35" fill="#7a8863" font-size="11" letter-spacing="2">03 / SEMANTIC SEARCH</text>
+<g transform="translate(438 111)">
+<circle r="69" fill="#e6eadb"/>
+<g stroke-width="1.5"><rect x="-47" y="-44" width="27" height="96" rx="4" fill="#b5c49a" stroke="#99ab7e"/><rect x="-16" y="-57" width="28" height="109" rx="4" fill="#8d729f" stroke="#7c638f"/><rect x="17" y="-36" width="28" height="88" rx="4" fill="#d8c8e4" stroke="#bda5ce"/></g>
+<g stroke="#f4f2e9" stroke-width="2"><path d="M-42-26h17M-42-20h17M-10-37H6M-10-31H6M23-17H39M23-11H39"/></g>
+<circle cx="27" cy="24" r="20" fill="#f3f5ed" stroke="#6f8054" stroke-width="4"/>
+<path d="m42 39 20 20" stroke="#6f8054" stroke-width="6" stroke-linecap="round"/>
+</g>
+<text x="28" y="94" fill="#435236" font-size="30" font-weight="700">Semantic Book</text>
+<text x="28" y="130" fill="#435236" font-size="30" font-weight="700">Recommendations</text>
+<text x="28" y="187" fill="#687758" font-size="17">Less keyword. More meaning.</text>
+<text x="28" y="215" fill="#7f8a72" font-size="14">Natural-language book discovery.</text>
+<path d="M28 242H552" stroke="#d6ddcb"/>
+<text x="28" y="274" fill="#65764e" font-size="14">Sentence Transformers · ChromaDB · Gradio</text>
+<text x="28" y="306" fill="#7a8863" font-size="11" letter-spacing="1.4">OPEN THE NOTEBOOK &gt;</text>
+</svg>
