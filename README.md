@@ -12,7 +12,7 @@
   &nbsp; · &nbsp;
   <a href="https://github.com/RenadShamrani?tab=repositories"><strong>Repositories</strong></a>
   &nbsp; · &nbsp;
-  <a href="https://github.com/RenadShamrani/LipStream/blob/main/LipStream-demo.mp4"><strong>LipStream demo</strong></a>
+  <a href="https://github.com/RenadShamrani/LipStream/blob/main/LipStream-demo.mp4"><strong>Recorded Demo</strong></a>
 </p>
 
 ## Selected work
