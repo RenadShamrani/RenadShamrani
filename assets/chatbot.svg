@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="330" viewBox="0 0 580 330" role="img" aria-labelledby="title desc">
+<title id="title">Haram Library Chatbot | Bilingual conversational AI</title><desc id="desc">COOP team project, Arabic and English visitor FAQs. Python, Rasa and FastAPI.</desc>
+<defs><style>text{font-family:Arial,Helvetica,sans-serif}</style></defs>
+<rect x="1" y="1" width="578" height="328" rx="20" fill="#f2edf9" stroke="#ded2ef" stroke-width="2"/>
+<text x="28" y="35" fill="#82649f" font-size="11" letter-spacing="2">02 / CONVERSATIONAL AI</text>
+<g transform="translate(410 110)">
+<circle r="70" fill="#e7ddf4"/>
+<path d="M-49-42H29q12 0 12 12V0q0 12-12 12H-15L-36 28V12H-49q-12 0-12-12V-30q0-12 12-12Z" fill="#765399"/>
+<text x="-32" y="-8" fill="#fff" font-size="24" font-weight="700">AR</text>
+<path d="M-8 6H57q12 0 12 12V42q0 12-12 12H47V67L28 54H-8q-12 0-12-12V18q0-12 12-12Z" fill="#fff" stroke="#c3acd9" stroke-width="1.5"/>
+<text x="7" y="39" fill="#654584" font-size="22" font-weight="700">EN</text>
+</g>
+<text x="28" y="94" fill="#4d3269" font-size="30" font-weight="700">Haram Library</text>
+<text x="28" y="130" fill="#4d3269" font-size="30" font-weight="700">Chatbot</text>
+<text x="28" y="187" fill="#6c567e" font-size="17">Two languages. Helpful answers.</text>
+<text x="28" y="215" fill="#877293" font-size="14">Co-developed during COOP training.</text>
+<path d="M28 242H552" stroke="#d9cbe7"/>
+<text x="28" y="274" fill="#6a4a88" font-size="14">Python · Rasa · FastAPI</text>
+<text x="28" y="306" fill="#806794" font-size="11" letter-spacing="1.4">EXPLORE THE PROJECT &gt;</text>
+</svg>
