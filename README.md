@@ -1,40 +1,44 @@
-# Renad Alshamrani
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Renad Alshamrani. Artificial Intelligence graduate in Jeddah, Saudi Arabia. First Class Honors, GPA 3.92/4.00. NLP, computer vision, and practical AI." />
+</p>
 
-### Artificial Intelligence Graduate | NLP & Computer Vision
+<p align="center">
+  <strong>From models to meaningful experiences.</strong><br />
+  I build AI projects across language, vision, and usable web interfaces.
+</p>
 
-I build applied AI projects that connect machine learning models with usable web interfaces. My work spans bilingual conversational AI, visual speech recognition, and semantic recommendation.
+<p align="center">
+  <a href="https://www.linkedin.com/in/renad-alshamrani/"><strong>LinkedIn</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/RenadShamrani?tab=repositories"><strong>Repositories</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/RenadShamrani/LipStream/blob/main/LipStream-demo.mp4"><strong>LipStream demo</strong></a>
+</p>
 
-Based in **Jeddah, Saudi Arabia**. B.Sc. in Artificial Intelligence from **Umm Al-Qura University**, **First Class Honors**, GPA **3.92/4.00**.
+## Selected work
 
-[LinkedIn](https://www.linkedin.com/in/renad-alshamrani/) · [Selected repositories](https://github.com/RenadShamrani?tab=repositories)
+<a href="https://github.com/RenadShamrani/LipStream">
+  <img src="./assets/lipstream.svg" width="100%" alt="LipStream: team graduation project in visual speech recognition. PyTorch, ResNet-18, BiLSTM, and CTC. Open the repository and recorded demo." />
+</a>
 
-## Selected projects
+<p>
+  <a href="https://github.com/RenadShamrani/haram-library-chatbot"><img src="./assets/chatbot.svg" width="49%" alt="Haram Library Chatbot: Arabic-English FAQ chatbot co-developed during COOP training with Python, Rasa, and FastAPI. Open project." /></a>
+  <a href="https://github.com/RenadShamrani/Semantic-Book-Recommendations"><img src="./assets/books.svg" width="49%" alt="Semantic Book Recommendations: natural-language book discovery using Sentence Transformers, ChromaDB, and Gradio. Open notebook project." /></a>
+</p>
 
-| Project | What it demonstrates | Core technologies |
-| :--- | :--- | :--- |
-| [LipStream](https://github.com/RenadShamrani/LipStream) | Team graduation project for transcribing short, silent English video clips from lip movements. Includes a recorded demo, model code, and a Flask API. | Python, PyTorch, ResNet-18, BiLSTM, CTC, Flask |
-| [Haram Library Chatbot](https://github.com/RenadShamrani/haram-library-chatbot) | Co-developed an Arabic-English FAQ chatbot during COOP training, covering 28 visitor questions with a lightweight web interface. | Python, Rasa, FastAPI, REST APIs |
-| [Semantic Book Recommendations](https://github.com/RenadShamrani/Semantic-Book-Recommendations) | Notebook-based exploration of recommending books by the meaning of a user's query. | Python, NLP, Jupyter Notebook |
+<sub>LipStream and the chatbot are collaborative projects. Team credits are preserved in their READMEs, including the <a href="https://github.com/loa24/LipStream">original LipStream repository</a>.</sub>
 
-LipStream is collaborative work. The [original team repository](https://github.com/loa24/LipStream) and full team credits are linked in its README.
+## My toolkit
 
-## Technical toolkit
+<img src="./assets/toolkit.svg" width="100%" alt="AI and data: Python, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib. Web and APIs: Flask, FastAPI, Rasa, HTML, CSS, JavaScript. Development: Git, Jupyter, Google Colab." />
 
-- **AI & data:** PyTorch, scikit-learn, Pandas, NumPy, Matplotlib
-- **NLP & conversational AI:** Rasa, intent design, dialogue flows, semantic similarity
-- **Computer vision:** visual feature extraction, sequence modeling, model evaluation
-- **Web & integration:** Python, Flask, FastAPI, REST APIs, HTML, CSS, JavaScript
-- **Development:** Git, Jupyter Notebook, Google Colab
+<details>
+<summary><strong>A little more about my background</strong></summary>
 
-## Practical experience
+- **Education:** B.Sc. in Artificial Intelligence, Umm Al-Qura University, 2026. First Class Honors, GPA 3.92/4.00.
+- **COOP:** NLP and chatbot development at Haram Library, March–July 2025. Co-developed an Arabic-English assistant covering 28 visitor FAQs and connected its backend to a web interface.
+- **Career focus:** Entry-level AI engineering, machine learning, and Python development, with an interest in NLP and computer vision.
 
-**COOP Trainee | NLP & Chatbot Development**  
-Haram Library · March–July 2025
+</details>
 
-Worked with domain experts to refine visitor FAQs, intents, entities, and dialogue flows for a bilingual chatbot. Co-developed the web interface and connected it to the chatbot backend through APIs.
-
-## Career focus
-
-Seeking entry-level opportunities in **AI engineering**, **machine learning**, and **Python development**, with a particular interest in NLP and computer vision.
-
-For professional contact: [LinkedIn](https://www.linkedin.com/in/renad-alshamrani/).
+<p align="center"><sub>Language. Vision. Useful AI.</sub></p>
