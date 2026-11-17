@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">LipStream | Visual speech recognition</title><desc id="desc">Team graduation project. Silent English video to text using PyTorch, ResNet-18, BiLSTM and CTC. Explore the code and recorded demo.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#34214f"/><stop offset="1" stop-color="#563b7c"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#cab2ed" stroke-opacity=".09"/></pattern><style>text{font-family:Arial,Helvetica,sans-serif}</style></defs>
+<rect width="1200" height="270" rx="22" fill="url(#bg)"/>
+<rect x="765" y="17" width="417" height="236" rx="14" fill="url(#grid)"/>
+<text x="36" y="38" fill="#cab7e5" font-size="12" letter-spacing="2.5">01 / FEATURED TEAM PROJECT</text>
+<text x="34" y="96" fill="#fbf7ff" font-size="47" font-weight="700" letter-spacing="-1.5">LipStream</text>
+<text x="36" y="133" fill="#e2d5f1" font-size="21">Giving silent video a voice.</text>
+<text x="36" y="164" fill="#bcabd3" font-size="16">Visual speech recognition from short English clips.</text>
+<g font-size="13" fill="#f0e6ff">
+<rect x="36" y="188" width="83" height="29" rx="14" fill="#ffffff" fill-opacity=".09"/><text x="53" y="207">PyTorch</text>
+<rect x="128" y="188" width="108" height="29" rx="14" fill="#ffffff" fill-opacity=".09"/><text x="143" y="207">ResNet-18</text>
+<rect x="245" y="188" width="118" height="29" rx="14" fill="#ffffff" fill-opacity=".09"/><text x="260" y="207">BiLSTM + CTC</text>
+</g>
+<text x="36" y="247" fill="#d5e7be" font-size="13">EXPLORE CODE + RECORDED DEMO &gt;</text>
+<g transform="translate(964 131)">
+<rect x="-145" y="-89" width="291" height="172" rx="15" fill="#2a1b40" stroke="#9273b7"/>
+<g fill="none" stroke="#b79ad8" stroke-width="2"><path d="M-119-59v-9h15M104-68h15v9M-119 53v9h15M104 62h15v-9"/></g>
+<path d="M-70-4Q-36-34 0-19 36-34 70-4 36 32 0 32-36 32-70-4Z" fill="#aa85cd" fill-opacity=".18" stroke="#d8c3ef" stroke-width="2"/>
+<path d="M-70-4Q-30 8 0 3 30 8 70-4" fill="none" stroke="#d8c3ef" stroke-width="2"/>
+<path d="M-95 0H95" stroke="#d0e7b5" stroke-opacity=".65" stroke-dasharray="4 5"/>
+<circle cx="0" cy="3" r="4" fill="#d0e7b5"/>
+<text x="-98" y="107" fill="#d7c6eb" font-size="12" letter-spacing="2">FRAMES / FEATURES / TEXT</text>
+</g></svg>
