@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title desc">
+<title id="title">My technical toolkit</title><desc id="desc">AI and data: Python, PyTorch, scikit-learn, Pandas and NumPy. Web and APIs: Flask, FastAPI, Rasa, HTML, CSS and JavaScript. Development: Git, Jupyter and Google Colab.</desc>
+<defs><style>text{font-family:Arial,Helvetica,sans-serif}</style></defs>
+<rect x="1" y="1" width="1198" height="140" rx="18" fill="#faf8fc" stroke="#e5ddeb" stroke-width="2"/>
+<path d="M402 25V117M802 25V117" stroke="#e5ddeb"/>
+<circle cx="33" cy="33" r="5" fill="#9675bb"/><text x="49" y="38" font-size="12" letter-spacing="2" fill="#76558f">AI + DATA</text>
+<text x="28" y="75" fill="#4b365b" font-size="20" font-weight="700">Python · PyTorch · scikit-learn</text>
+<text x="28" y="105" fill="#8a7894" font-size="15">Pandas · NumPy · Matplotlib</text>
+<circle cx="434" cy="33" r="5" fill="#9cad85"/><text x="450" y="38" font-size="12" letter-spacing="2" fill="#76558f">WEB + APIs</text>
+<text x="429" y="75" fill="#4b365b" font-size="20" font-weight="700">Flask · FastAPI · Rasa</text>
+<text x="429" y="105" fill="#8a7894" font-size="15">HTML · CSS · JavaScript</text>
+<circle cx="834" cy="33" r="5" fill="#b994ba"/><text x="850" y="38" font-size="12" letter-spacing="2" fill="#76558f">DEVELOPMENT</text>
+<text x="829" y="75" fill="#4b365b" font-size="20" font-weight="700">Git · Jupyter · Google Colab</text>
+<text x="829" y="105" fill="#8a7894" font-size="15">From experiments to interfaces</text>
+</svg>
