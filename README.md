@@ -28,9 +28,9 @@
   <sub>My role: co-developed the PyTorch pipeline and built the Flask-connected web interface.</sub>
 </p>
 
-<p>
-  <a href="https://github.com/RenadShamrani/haram-library-chatbot"><img src="./assets/chatbot-preview.svg" width="49%" alt="Haram Library Chatbot: screenshot of the original interface running locally, without a Rasa conversation or simulated responses. Open the collaborative COOP project." /></a>
-  <a href="https://github.com/RenadShamrani/Semantic-Book-Recommendations"><img src="./assets/books-preview.svg" width="49%" alt="Semantic Book Recommendations: a reformatted excerpt of saved notebook output, not a fresh model run or a live application. Open the notebook project." /></a>
+<p align="center">
+  <a href="https://github.com/RenadShamrani/haram-library-chatbot"><img src="./assets/chatbot-preview.svg" width="420" alt="Haram Library Chatbot: screenshot of the original interface running locally, without a Rasa conversation or simulated responses. Open the collaborative COOP project." /></a>
+  <a href="https://github.com/RenadShamrani/Semantic-Book-Recommendations"><img src="./assets/books-preview.svg" width="420" alt="Semantic Book Recommendations: a reformatted excerpt of saved notebook output, not a fresh model run or a live application. Open the notebook project." /></a>
 </p>
 
 <details>
